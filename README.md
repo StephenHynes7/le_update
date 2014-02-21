@@ -5,7 +5,7 @@ Script to run along side auto scaling to update all Logentries Tags and Alerts t
 
 Setup
 -----
-** You must have the [Logentries Agent](https://logentries.com/doc/agent/)  registered and following a file for this script to work**
+**You must have the [Logentries Agent](https://logentries.com/doc/agent/)  registered and following a file for this script to work**
 
 Run the following command,
 
